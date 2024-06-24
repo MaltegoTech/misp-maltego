@@ -1,0 +1,21 @@
+v1.1
+
+Rough refactoring of code that is responsible for the first two big transforms SearchInMISP and AttributeToEvent
+
+v1.2
+
+Refactored of all the transform code from EventToAttributes, translating to EventToAll, EventToAttributes, EventToTags, EventToGalaxies, EventToObjects, EventToRelations, ObjectToAttributes, ObjectToRelations
+Removed all the debug code from repo.
+Linted and formatted the code using ruff.
+
+v1.3
+Event to and Galaxy to transforms added.
+
+v1.4
+Fixed bugs, and tested event and galaxy transform runs.
+
+v1.5
+Added Docker build support.
+
+v1.6
+Added support for setting MISP credentials from transforms from the Maltego client.

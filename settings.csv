@@ -1,0 +1,3 @@
+Name,Type,Display,DefaultValue,Optional,Popup
+global#misp_instance_url,string,Misp Instance URL,,False,No
+global#misp_api_key,string,Misp API key,,False,No

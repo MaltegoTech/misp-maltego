@@ -67,7 +67,7 @@ def galaxycluster_to_cluster(cluster: dict) -> dict:
 # LATER this uses the galaxies from github as the MISP web UI does not fully support the Galaxies in the webui.
 # See https://github.com/MISP/MISP/issues/3801
 # galaxy_archive_url should be updated to github URL when it's published.
-galaxy_archive_url = ""
+galaxy_archive_url = "https://github.com/MaltegoTech/misp-maltego/blob/main/misp_prod.mtz"
 local_path_uuid_mapping = os.path.join(
     local_path_root, "MISP_maltego_galaxy_mapping.json"
 )

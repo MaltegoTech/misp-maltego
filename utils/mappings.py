@@ -1,5 +1,6 @@
 # Author: Sangeetharaj SMB
 """
+ Copyright (C) 2018-2024 Christophe Vandeplas
  Copyright (C) 2024 Maltego Technologies GmbH
 
  This program is free software: you can redistribute it and/or modify

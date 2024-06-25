@@ -63,3 +63,27 @@ Common errors might include:
     Connection errors: Verify your MISP URL and ensure the server is reachable.
     Authentication errors: Double-check your API key in the .env file.
     For detailed error messages, consult the Maltego transform logs and MISP API documentation.
+
+### License
+This software is licensed under GNU Affero General Public License version 3
+
+Copyright (C) 2018-2024 Christophe Vandeplas
+Copyright (C) 2024 Maltego Technologies GmbH
+
+ This program is free software: you can redistribute it and/or modify
+ it under the terms of the GNU Affero General Public License as
+ published by the Free Software Foundation, either version 3 of the
+ License, or (at your option) any later version.
+
+ This program is distributed in the hope that it will be useful,
+ but WITHOUT ANY WARRANTY; without even the implied warranty of
+ MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+ GNU Affero General Public License for more details.
+
+ You should have received a copy of the GNU Affero General Public License
+ along with this program.  If not, see <https://www.gnu.org/licenses/>.
+Note: Before being rewritten from scratch this project was maintained by Christophe Vandeplas. The code is available [here](https://github.com/MISP/MISP-maltego).
+
+The logo is CC-BY-SA and was designed by Françoise Penninckx
+
+The icons are from intelligence-icons licensed CC-BY-SA - Françoise Penninckx, Brett Jordan
